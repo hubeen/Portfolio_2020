@@ -11,4 +11,4 @@
 ![competition](/imgs/competition.png)
 
 ## projects
-![project](/imgs/project.png)
+![project](/imgs/projects.png)
