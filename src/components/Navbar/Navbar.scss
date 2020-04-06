@@ -28,6 +28,6 @@
   }
 }
 .nes-btn {
-  min-width: 125px;
-  font-size: 1.3rem;
+  min-width: calc(100% / 10);
+  font-size: 1.0rem;
 }
