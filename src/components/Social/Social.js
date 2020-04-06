@@ -19,10 +19,6 @@ const Social = ({screenSize}) => {
         className="nes-icon facebook is-medium navbar-social nes-pointer"
         onClick={() => handleClick("https://fb.com/mhubeen")}
       />
-      <i
-        className="nes-icon star is-medium navbar-social nes-pointer"
-        onClick={()=> handleClick("https://blog.naver.com/mhubeen")}
-      />
     </div>
   );
 };
